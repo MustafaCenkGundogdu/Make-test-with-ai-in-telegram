@@ -10,17 +10,20 @@ botu kullanmak için önce telegramdan telegramın mafya babası olan
 ama dikkat edin haa! kimseye vermeyin bu api`yi yoksa /botfather
 sizi bulur ve gününüzü gösterir.
 
-sonra gemini sitesinden gemini api key`inizi bu key`i de kimseyle paylaşmayın
-ypksa ay sonunda borca batıp evinizi, arabanızı satarsınız.
+sonra gemini sitesinden gemini api key'inizi alın
+bu key'i de kimseyle paylaşmayın
+yoksa ay sonunda borca batıp evinizi, arabanızı satabilirsiniz.
 
-bunları .env dosyasına girdikten bu python kodunu replite koyup paylaşma linkini de bedava
+bunları .env dosyasına girdikten sonra bu python kodunu replite koyup paylaşma linkini de bedava
 ping atma sitelerine girebilirsiniz.
 
 
 şimdi telegrama atacağınız dosya .txt dosyası olmalıdır. 
 
-çalışacağınız pdf`ten kopyalayıp .txt dosyası yapın
-ya da pdf`iniz aranabilir değil ise google ocr pdf yazıp çıkan sitelerden
+çalışacağınız pdf
+ten kopyalayıp
+.txt dosyası yapın
+ya da pdf aranabilir değil ise google ocr pdf yazıp çıkan sitelerden
 pdf`inizi aranabilir pdf yapın. sonra kopyala yapıştır ile .txt dosyasına dönüştürün.
 
 
