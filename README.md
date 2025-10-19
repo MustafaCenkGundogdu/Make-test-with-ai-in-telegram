@@ -3,7 +3,7 @@ eğitimci misiniz ?
 kendi kendime ders çalışmak istiyorum fakat nereden başlayacağım
 bilemiyorum mu diyorsunuz ?
 
-o zaman bu not tam size göre
+o zaman bu bot tam size göre
 
 botu kullanmak için önce telegramdan telegramın mafya babası olan
 /botfather'dan /new bot komutu ile botunuzu oluşturun ve api'sini saklayın
