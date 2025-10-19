@@ -8,7 +8,7 @@ o zaman bu bot tam size göre
 botu kullanmak için önce telegramdan telegramın mafya babası olan
 /botfather'dan /new bot komutu ile botunuzu oluşturun ve api'sini saklayın
 ama dikkat edin haa! kimseye vermeyin bu api`yi yoksa /botfather
-sizi bulur be gününüzü gösterir.
+sizi bulur ve gününüzü gösterir.
 
 sonra gemini sitesinden gemini api key`inizi bu key`i de kimseyle paylaşmayın
 ypksa ay sonunda borca batıp evinizi, arabanızı satarsınız.
